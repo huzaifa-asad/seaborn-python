@@ -31,7 +31,7 @@ Make sure you have Python 3.8+ installed. All required packages are listed in `r
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/huzaifazz/seaborn-python
+  git clone https://github.com/huzaifa-asad/seaborn-python
   cd seaborn-python
   ```
 
